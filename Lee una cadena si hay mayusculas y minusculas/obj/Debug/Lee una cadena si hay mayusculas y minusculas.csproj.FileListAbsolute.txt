@@ -1,0 +1,7 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Lee una cadena si hay mayusculas y minusculas\bin\Debug\Lee una cadena si hay mayusculas y minusculas.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Lee una cadena si hay mayusculas y minusculas\Lee una cadena si hay mayusculas y minusculas\bin\Debug\Lee una cadena si hay mayusculas y minusculas.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Lee una cadena si hay mayusculas y minusculas\Lee una cadena si hay mayusculas y minusculas\bin\Debug\Lee una cadena si hay mayusculas y minusculas.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Lee una cadena si hay mayusculas y minusculas\Lee una cadena si hay mayusculas y minusculas\bin\Debug\Lee una cadena si hay mayusculas y minusculas.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Lee una cadena si hay mayusculas y minusculas\Lee una cadena si hay mayusculas y minusculas\obj\Debug\Lee una cadena si hay mayusculas y minusculas.csprojResolveAssemblyReference.cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Lee una cadena si hay mayusculas y minusculas\Lee una cadena si hay mayusculas y minusculas\obj\Debug\Lee una cadena si hay mayusculas y minusculas.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Lee una cadena si hay mayusculas y minusculas\Lee una cadena si hay mayusculas y minusculas\obj\Debug\Lee una cadena si hay mayusculas y minusculas.pdb
